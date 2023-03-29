@@ -1,0 +1,18 @@
+.buttonum{
+    
+    margin: .75rem;
+    border-radius: 1rem;
+   padding: .75rem;
+
+
+}
+
+.upBtn{
+    background-color: blue;
+    color: white;
+}
+
+.downBtn{
+    background-color: red;
+    color: white;
+}
